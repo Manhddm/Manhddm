@@ -4,8 +4,6 @@
 🌱 I’m currently learning UTC
 💞️ I’m looking to collaborate on SFIT
 📫 How to reach me manhducdongyb@gmail.com
-😄 Pronouns: 
-⚡ Fun fact: 
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/dongducmanhyb) 
@@ -19,10 +17,6 @@
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Manhddm&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Manhddm&icon=0&color=0)](https://visitcount.itsvg.in)
