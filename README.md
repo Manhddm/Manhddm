@@ -1,10 +1,3 @@
-# 💫About Me :
-👋 Hi, I’m @Manhddm
-👀 I’m interested in AI
-🌱 I’m currently learning UTC
-💞️ I’m looking to collaborate on SFIT
-📫 How to reach me manhducdongyb@gmail.com
-
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/dongducmanhyb) 
 
